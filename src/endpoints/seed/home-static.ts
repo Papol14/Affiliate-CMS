@@ -61,7 +61,7 @@ export const homeStatic: RequiredDataFromCollectionSlug<'pages'> = {
                 format: 0,
                 mode: 'normal',
                 style: '',
-                text: ' to find your products that yyou like.',
+                text: ' to find your products that you like.',
                 version: 1,
               },
             ],
